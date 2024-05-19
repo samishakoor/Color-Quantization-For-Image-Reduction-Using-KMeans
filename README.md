@@ -6,3 +6,11 @@
 # Visualization
 - Original Image
 <img src="src/Original.jpg" alt="Nature" width="500"/>
+- Reduced Image (K=2)
+<img src="src/K=2.png" alt="Nature" width="500"/>
+- Reduced Image (K=3)
+<img src="src/K=3.png" alt="Nature" width="500"/>
+- Reduced Image (K=5)
+<img src="src/K=5.png" alt="Nature" width="500"/>
+
+
