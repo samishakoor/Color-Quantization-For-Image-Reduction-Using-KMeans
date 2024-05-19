@@ -4,4 +4,5 @@
 - By clustering similar colors together, K-Means effectively reduces the color palette, optimizing the image storage and processing without significant loss in visual quality.
 
 # Visualization
+- Original Image
 <img src="src/Original.jpg" alt="Nature" width="500"/>
